@@ -1,5 +1,5 @@
 FROM centos:7
-LABEL maintainer="Jeff Geerling"
+LABEL maintainer="Haggai Philip Zagury"
 ENV container=docker
 
 # Install systemd -- See https://hub.docker.com/_/centos/
